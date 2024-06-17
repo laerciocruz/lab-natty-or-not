@@ -18,7 +18,7 @@ O "D-ID" foi essencial para criar um avatar virtual e importar o arquivo de voz 
 ## 🚀 Resultados
 O vídeo mostra um avatar, criado por uma IA, apresentando uma notícia importante (também criada por uma IA).
 
-[Veja o Vídeo](assets\vacas_pintoras.mp4)
+[Veja o Vídeo]([assets\vacas_pintoras.mp4](https://github.com/laerciocruz/lab-natty-or-not/blob/main/assets/vacas_pintoras.mp4))
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
